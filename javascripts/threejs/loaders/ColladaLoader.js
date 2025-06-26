@@ -35,7 +35,7 @@ import {
 	TextureLoader,
 	Vector3,
 	VectorKeyframeTrack
-} from '../../../build/three.module.js';
+} from '/EVERLAND_Index_ver/javascripts/threejs/three.module.js';
 import { TGALoader } from '../loaders/TGALoader.js';
 
 var ColladaLoader = function ( manager ) {

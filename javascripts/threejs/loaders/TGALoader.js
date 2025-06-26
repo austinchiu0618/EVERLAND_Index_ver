@@ -2,7 +2,7 @@ import {
 	FileLoader,
 	Loader,
 	Texture
-} from '../../../build/three.module.js';
+} from '/EVERLAND_Index_ver/javascripts/threejs/three.module.js';
 
 var TGALoader = function ( manager ) {
 
