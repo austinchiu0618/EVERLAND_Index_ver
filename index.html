@@ -217,7 +217,7 @@
                             $('#drawView').css({ 'clipPath': `circle(${val}% at 50% 50%)` })
                         }
                     });
-                    setTimeout(() => { $(location).prop('href', '/') }, 2000)
+                    setTimeout(() => { $(location).prop('href', document.location.href) }, 2000)
                 })
                 .start();
         }
